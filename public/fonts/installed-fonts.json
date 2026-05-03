@@ -1,0 +1,11 @@
+{
+    "anton": {
+        "normal": "anton_normal_cd5365588f1260c62ef3bb5b7ca46f49"
+    },
+    "inter": {
+        "normal": "inter_normal_fc629c4846da87baba81574557da9dc5",
+        "600": "inter_600_c6343ce426df2848a2aa7b4752ed9ad5",
+        "bold": "inter_bold_7f75c62596803334c7d5a010f1654ff0",
+        "800": "inter_800_b23e7a58bc1666987233ff4f273bb149"
+    }
+}

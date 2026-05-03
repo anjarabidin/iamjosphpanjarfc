@@ -1,0 +1,13 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "XQW8C3CKUJ.com.cancreative.nestGymMobile",
+                "paths": [ "/article/*", "/membership/*", "/class/*", "/personal-trainer/*", "/pt-plus/*", "/shop/*"]
+            },
+        ]
+    }
+}
+
+

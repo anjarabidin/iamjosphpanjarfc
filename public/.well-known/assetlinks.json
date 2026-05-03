@@ -1,0 +1,38 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.cancreative.jaktivity",
+      "sha256_cert_fingerprints": [
+        "29:03:00:A3:8C:5F:9B:54:67:9E:1D:94:DD:3A:1F:3A:42:C1:68:06:2F:51:8E:BB:B8:B2:0B:8B:CC:3D:B6:03"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.cancreative.nest_gym_mobile",
+      "sha256_cert_fingerprints": [
+        "5C:74:E8:CD:D0:A7:47:54:E0:3A:F1:09:74:CC:2A:BC:76:AA:77:EE:44:09:26:22:60:6A:D5:29:D6:D3:94:2F"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "id.cancreative.nest_gym",
+      "sha256_cert_fingerprints": [
+        "11:95:AA:9F:5F:21:44:12:7A:2C:F4:E9:8D:73:3D:27:21:E5:89:96:74:50:A2:D6:0D:63:EA:9D:6C:F2:46:6F"
+      ]
+    }
+  }
+]
